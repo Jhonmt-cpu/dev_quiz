@@ -1,16 +1,49 @@
-# dev_quiz
 
-A new Flutter project.
+<p align="center">
+  <a href="https://github.com/Jhonmt-cpu/dev_quiz">
+    <img src="../assets/Capa.png?raw=true"/>
+  </a>
+</p>
 
-## Getting Started
+<p align="center">Projeto devquiz do NLW5 sobre Flutter
+ 🚀</p>
 
-This project is a starting point for a Flutter application.
+ <p align="center">
+ <img src="https://img.shields.io/github/issues/jhonmt-cpu/dev_quiz?style=for-the-badge"/>
+ <img src="https://img.shields.io/github/forks/jhonmt-cpu/dev_quiz?style=for-the-badge"/>
+ <img src="https://img.shields.io/github/stars/jhonmt-cpu/dev_quiz?style=for-the-badge"/>
+ <img src="https://img.shields.io/github/license/jhonmt-cpu/dev_quiz?style=for-the-badge"/>
+ </p>
 
-A few resources to get you started if this is your first Flutter project:
+## ✅ Plugins do Vscode
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Awesome Flutter Snippets
+- Dart
+- Dracula Oficial (tema, nao é obrigatorio esse, mas fica estiloso)
+- Flutter
+- Error lens
+- Material Icon Theme
+- Dart Data Class Generator
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✅  Instalação
+
+Necessário:
+
+- [Flutter](flutter.dev) 2.0.5 ou superior
+- Visual Studio Code ou Android Studio
+- Git
+- ❌ Não é necessário instalar Android SDK nem AVD. A partir do Flutter 2.0.5 existe a versão "Chrome" ou "Edge"
+
+Instalação
+
+```
+$ git clone https://github.com/danielschmitz/devquiz.git
+cd devquiz
+code . 
+```
+
+Após abrir o Visual Studio Code, aperte F5 para compilar e executar o projeto.
+
+Enjoy!
+
+</details>
