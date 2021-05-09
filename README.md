@@ -12,7 +12,6 @@
  <img src="https://img.shields.io/github/issues/jhonmt-cpu/dev_quiz?style=for-the-badge"/>
  <img src="https://img.shields.io/github/forks/jhonmt-cpu/dev_quiz?style=for-the-badge"/>
  <img src="https://img.shields.io/github/stars/jhonmt-cpu/dev_quiz?style=for-the-badge"/>
- <img src="https://img.shields.io/github/license/jhonmt-cpu/dev_quiz?style=for-the-badge"/>
  </p>
 
 ## ✅ Plugins do Vscode
@@ -37,7 +36,7 @@ Necessário:
 Instalação
 
 ```
-$ git clone https://github.com/danielschmitz/devquiz.git
+$ git clone https://github.com/Jhonmt-cpu/dev_quiz.git
 cd devquiz
 code . 
 ```
@@ -46,4 +45,3 @@ Após abrir o Visual Studio Code, aperte F5 para compilar e executar o projeto.
 
 Enjoy!
 
-</details>
